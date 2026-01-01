@@ -25,7 +25,7 @@ jobs:
       - name: Generate Snake Game
         uses: Platane/snk@master
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ChampionNan
           
           # 输出的图片文件（可以自定义名称）
           outputs: |
@@ -42,4 +42,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
+          force_orphan: true  # 添加这行
           commit_message: "Update snake animation [skip ci]"
