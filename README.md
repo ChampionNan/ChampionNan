@@ -32,9 +32,11 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Innovation-0a0a0a?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stack-Full--Stack-0a0a0a?style=for-the-badge&logo=codeigniter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mission-Architecting%20Solutions-0a0a0a?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Research-Query%20Optimization-0a0a0a?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Core-Algorithm%20Design-0a0a0a?style=for-the-badge&logo=acm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Database%20Internals-0a0a0a?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stack-System%20Engineering-0a0a0a?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mission-High--Performance-0a0a0a?style=for-the-badge&logo=speedtest&logoColor=white" />
 </p>
 
 <p align="center"> 
@@ -109,7 +111,7 @@ Here are some ideas to get you started:
 - ![Linux](https://img.shields.io/badge/Linux%20Kernel-85%25-FCC624) *(OS Tuning & Internals)*
 
 </details>
----
+
 
 <h1 align="center">
   <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
