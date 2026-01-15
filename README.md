@@ -101,7 +101,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=f9d042&background=0A0A0A00&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+ChampionNan;Engineer+of+Complexity+%7C+Solver+of+Problems;Welcome+to+my+Digital+Garden;Let%E2%80%99s+build+something+extraordinary."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=f9d042&background=0A0A0A00&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+ChampionNan;Bridging+Database+Theory+%26+System+Building;Designing+Algorithms+for+Query+Optimization;Welcome+to+my+Research."
     alt="Typing Banner"
   />
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" />
