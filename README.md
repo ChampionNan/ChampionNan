@@ -21,73 +21,6 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ChampionNan/ChampionNan/output/github-contribution-grid-snake.svg">
 </picture>
 
--->
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=f9d042&background=0A0A0A00&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+ChampionNan;Engineer+of+Complexity+%7C+Solver+of+Problems;Welcome+to+my+Digital+Garden;Let%E2%80%99s+build+something+extraordinary."
-    alt="Typing Banner"
-  />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Research-Query%20Optimization-0a0a0a?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Core-Algorithm%20Design-0a0a0a?style=for-the-badge&logo=acm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Database%20Internals-0a0a0a?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stack-System%20Engineering-0a0a0a?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mission-High--Performance-0a0a0a?style=for-the-badge&logo=speedtest&logoColor=white" />
-</p>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=ChampionNan&label=Profile%20views&color=0e75b6&style=flat" alt="ChampionNan Profile Views" />
-  <img src="https://img.shields.io/github/followers/ChampionNan?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/ChampionNan?label=Total%20Stars&style=social" alt="GitHub Stars" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=f9d042&center=true&vCenter=true&width=500&lines=%E2%9A%A1+Always+Learning+New+Tech;%F0%9F%92%BB+Writing+Clean+Code;%F0%9F%8C%8D+Open+Source+Contributor" alt="Dynamic Status" />
-</p>
-
----
-
-<h1 align="center">
-  <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
-  Who is ChampionNan?
-<img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
-
-<p align="center"><strong style="font-size:18px;">Hello! I'm ChampionNan</strong> — a <strong>Database PhD Student</strong> bridging the gap between theoretical research and practical system engineering.</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> <strong>Designing</strong> query evaluation & optimization.<br>
-  <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> <strong>Bridging</strong> theoretical bounds with practical code.<br>
-  <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> <strong>Architecting</strong> high-performance database kernels.<br>
-  <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> <strong>Engineering</strong> systems that scale with data.
-</p>
-
----
-
-<h1 align="center">
-  <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
-  Tech Stack & Skills
-<img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,python,java,scala,html,css,django,vue,flask,docker,git,mysql,postgres,pytorch,linux,bash,latex,vim,vscode&perline=10" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
-  <img src="https://img.shields.io/badge/SparkSQL-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Verilog-B01C2E?style=for-the-badge&logo=verilog&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white" />
-</p>
-
 <details>
 <summary><strong>💪 Skill Proficiency Levels</strong></summary>
 <br>
@@ -164,6 +97,101 @@ Here are some ideas to get you started:
 </details>
 
 
+-->
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=f9d042&background=0A0A0A00&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+ChampionNan;Engineer+of+Complexity+%7C+Solver+of+Problems;Welcome+to+my+Digital+Garden;Let%E2%80%99s+build+something+extraordinary."
+    alt="Typing Banner"
+  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Research-Query%20Optimization-0a0a0a?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Core-Algorithm%20Design-0a0a0a?style=for-the-badge&logo=acm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Database%20Internals-0a0a0a?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stack-System%20Engineering-0a0a0a?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mission-High--Performance-0a0a0a?style=for-the-badge&logo=speedtest&logoColor=white" />
+</p>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=ChampionNan&label=Profile%20views&color=0e75b6&style=flat" alt="ChampionNan Profile Views" />
+  <img src="https://img.shields.io/github/followers/ChampionNan?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/ChampionNan?label=Total%20Stars&style=social" alt="GitHub Stars" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=f9d042&center=true&vCenter=true&width=500&lines=%E2%9A%A1+Always+Learning+New+Tech;%F0%9F%92%BB+Writing+Clean+Code;%F0%9F%8C%8D+Open+Source+Contributor" alt="Dynamic Status" />
+</p>
+
+---
+
+<h1 align="center">
+  <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
+  Who is ChampionNan?
+<img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
+
+<p align="center"><strong style="font-size:18px;">Hello! I'm ChampionNan</strong> — a <strong>Database PhD Student</strong> bridging the gap between theoretical research and practical system engineering.</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> <strong>Designing</strong> query evaluation & optimization.<br>
+  <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> <strong>Bridging</strong> theoretical bounds with practical code.<br>
+  <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> <strong>Architecting</strong> high-performance database kernels.<br>
+  <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> <strong>Engineering</strong> systems that scale with data.
+</p>
+
+---
+
+<h1 align="center">
+  <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
+  Tech Stack & Skills
+<img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,java,scala,html,css,django,vue,flask,docker,git,mysql,postgres,pytorch,linux,bash,latex,vim,vscode&perline=10" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
+  <img src="https://img.shields.io/badge/SparkSQL-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Verilog-B01C2E?style=for-the-badge&logo=verilog&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+
+<h1 align="center">
+  <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
+  Skill Proficiency Levels
+<img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
+
+### 🛠️ Systems & Core
+| | |
+|:---:|:---:|
+| ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-90%25-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) <br> ![Focus](https://img.shields.io/badge/Focus-Compiler_%26_DB_Internals-1e1e1e?style=flat-square) | ![Python](https://img.shields.io/badge/Python-85%25-3776AB?style=flat-square&logo=python&logoColor=white) <br> ![Focus](https://img.shields.io/badge/Focus-Research_Prototypes-1e1e1e?style=flat-square) |
+| ![SQL](https://img.shields.io/badge/SQL-90%25-4479A1?style=flat-square&logo=postgresql&logoColor=white) <br> ![Focus](https://img.shields.io/badge/Focus-Optimizer_%26_Execution-1e1e1e?style=flat-square) | ![Verilog](https://img.shields.io/badge/Verilog_%26_System_Verilog-85%25-B01C2E?style=flat-square&logo=verilog&logoColor=white) <br> ![Focus](https://img.shields.io/badge/Focus-Hardware_Description_%26_RTL-1e1e1e?style=flat-square) |
+| ![Java/Scala](https://img.shields.io/badge/Java%2FScala-60%25-007396?style=flat-square&logo=openjdk&logoColor=white) <br> ![Focus](https://img.shields.io/badge/Focus-Legacy_Systems-1e1e1e?style=flat-square) | ![HTML/CSS](https://img.shields.io/badge/HTML5_%2F_CSS3-90%25-E34F26?style=flat-square&logo=html5&logoColor=white) <br> ![Focus](https://img.shields.io/badge/Focus-Frontend_Structure-1e1e1e?style=flat-square) |
+| ![JSP](https://img.shields.io/badge/JSP-70%25-007396?style=flat-square&logo=java&logoColor=white) <br> ![Focus](https://img.shields.io/badge/Focus-Server--Side_Rendering-1e1e1e?style=flat-square) | |
+
+### 🗄️ Database Systems
+| | |
+|:---:|:---:|
+| ![DuckDB](https://img.shields.io/badge/DuckDB-95%25-FFF000?style=flat-square&logo=duckdb&logoColor=black) <br> ![Focus](https://img.shields.io/badge/Focus-OLAP_%26_Vectorization-1e1e1e?style=flat-square) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-90%25-4169E1?style=flat-square&logo=postgresql&logoColor=white) <br> ![Focus](https://img.shields.io/badge/Focus-Extensibility_%26_Internals-1e1e1e?style=flat-square) |
+| ![MySQL](https://img.shields.io/badge/MySQL-85%25-4479A1?style=flat-square&logo=mysql&logoColor=white) <br> ![Focus](https://img.shields.io/badge/Focus-OLTP_%26_Storage_Engines-1e1e1e?style=flat-square) | ![SparkSQL](https://img.shields.io/badge/SparkSQL-80%25-E25A1C?style=flat-square&logo=apachespark&logoColor=white) <br> ![Focus](https://img.shields.io/badge/Focus-Distributed_Processing-1e1e1e?style=flat-square) |
+
+### ⚙️ Tools & Environment
+| | |
+|:---:|:---:|
+| ![Linux](https://img.shields.io/badge/Linux%20Kernel-85%25-FCC624?style=flat-square&logo=linux&logoColor=black) <br> ![Focus](https://img.shields.io/badge/Focus-OS_Tuning_%26_Internals-1e1e1e?style=flat-square) | ![Docker](https://img.shields.io/badge/Docker%2FK8s-80%25-2496ED?style=flat-square&logo=docker&logoColor=white) <br> ![Focus](https://img.shields.io/badge/Focus-Reproducible_Environments-1e1e1e?style=flat-square) |
+| ![Django](https://img.shields.io/badge/Django-85%25-092E20?style=flat-square&logo=django&logoColor=white) <br> ![Focus](https://img.shields.io/badge/Focus-Backend_Development-1e1e1e?style=flat-square) | ![Flask](https://img.shields.io/badge/Flask-85%25-000000?style=flat-square&logo=flask&logoColor=white) <br> ![Focus](https://img.shields.io/badge/Focus-Microservices_&_APIs-1e1e1e?style=flat-square) |
+| ![Git](https://img.shields.io/badge/Git-90%25-F05032?style=flat-square&logo=git&logoColor=white) <br> ![Focus](https://img.shields.io/badge/Focus-Version_Control-1e1e1e?style=flat-square) | ![OOP](https://img.shields.io/badge/OOP-95%25-FF6F00?style=flat-square&logo=uml&logoColor=white) <br> ![Focus](https://img.shields.io/badge/Focus-Design_Patterns-1e1e1e?style=flat-square) |
+| ![Vim](https://img.shields.io/badge/Vim-90%25-019733?style=flat-square&logo=vim&logoColor=white) <br> ![Focus](https://img.shields.io/badge/Focus-Editor_of_Choice-1e1e1e?style=flat-square) | ![LaTeX](https://img.shields.io/badge/LaTeX-95%25-008080?style=flat-square&logo=latex&logoColor=white) <br> ![Focus](https://img.shields.io/badge/Focus-Academic_Writing-1e1e1e?style=flat-square) |
+| ![Vue](https://img.shields.io/badge/Vue.js-70%25-4FC08D?style=flat-square&logo=vue.js&logoColor=white) <br> ![Focus](https://img.shields.io/badge/Focus-Frontend_Interactions-1e1e1e?style=flat-square) | |
+
 <h1 align="center">
   <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
   GitHub Analytics
@@ -230,7 +258,6 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://championnan.github.io/"><img src="https://img.shields.io/badge/Portfolio-championnan.github.io-2ea44f?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/bingnan-chen-09192b1b0/"><img src="https://img.shields.io/badge/LinkedIn-Bingnan%20Chen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/WeChat-ChampionNan--cbn-07C160?style=for-the-badge&logo=wechat&logoColor=white"/>
 </p>
 
 <p align="center">
