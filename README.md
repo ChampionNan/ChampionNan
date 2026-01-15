@@ -277,6 +277,32 @@ Here are some ideas to get you started:
 
 <h1 align="center">
   <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
+  Featured Projects
+<img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
+
+<h1 align="center">
+  <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
+  Featured Research & Systems
+<img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
+
+<div align="center">
+
+| Project & Research | Core Contributions & Statistics | Tech Stack | Status |
+|:---:|:---|:---:|:---:|
+| **[Yannakakis+ (DuckDB)](https://github.com/ChampionNan/DuckDBYanPlus)**<br>*(Core Optimizer)* | • Replaced native join optimizer with **Greedy GYO-based** enumerator.<br>• Implemented **Bloom Filters** to replace expensive semi-joins.<br>• **Hybrid CBO/RBO** using DuckDB's advanced statistics. | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) <br> ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) | 🚀 **Live** |
+| **[Yannakakis+ (Query Rewriter)](https://github.com/hkustDB/Quorion/tree/reproducibility)**<br>*(Algorithm Design)* | • **$O(N+M)$** time guarantee on free-connex queries.<br>• **$O(min(NM, F))$** on general queries.<br>• Interleaves selective aggregation-joins with semi-joins. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) <br> ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) | 📜 **Published** |
+| **[Quorion System](https://github.com/hkustDB/Quorion)**<br>*(Interactive Web UI)* | • **SQL-to-SQL Rewriter** for next-gen join plans.<br>• Targets **DuckDB, Postgres, MySQL** via JDBC.<br>• Visual plan selection & cost-based optimization. | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) <br> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | 🖥️ **System** |
+| **[Flexway O-Sort](https://github.com/hkustDB/ODSORT)**<br>*(Secure Hardware)* | • **$O(N log N)$** optimal oblivious sorting.<br>• Designed for **Intel SGX** (Enclave-friendly).<br>• Novel **Flexway Butterfly Network** for optimal page swaps. | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) <br> ![SGX](https://img.shields.io/badge/Intel_SGX-0071C5?style=flat-square&logo=intel&logoColor=white) | 🔒 **Security** |
+| **[RISC-V Implementation](https://github.com/ChampionNan/RISCV)**<br>*(Computer Architecture)* | • Designed a custom **RISC-V** processor core.<br>• Validated logic for arithmetic and branch operations. | ![Verilog](https://img.shields.io/badge/Verilog-B01C2E?style=flat-square&logo=verilog&logoColor=white) <br> ![FPGA](https://img.shields.io/badge/Hardware-Design-orange?style=flat-square) | ⚙️ **Arch** |
+| **[C-Minus Compiler](https://github.com/ChampionNan/C-minus-compiler)**<br>*(Compiler Design)* | • **End-to-End** compilation pipeline (Lexer to CodeGen).<br>• Implemented **Syntax-Directed Translation** for C subset.<br>• Features intermediate code generation and **symbol table** logic. | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) <br> ![Make](https://img.shields.io/badge/Make-000000?style=flat-square&logo=gnu&logoColor=white) | 🔧 **Tool** |
+
+</div>
+
+
+---
+
+<h1 align="center">
+  <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
   GitHub Analytics
 <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
 
@@ -301,30 +327,6 @@ Here are some ideas to get you started:
   <img src="https://github-profile-trophy.vercel.app/?username=ChampionNan&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&rank=SECRET,SSS,SS,S,A,B,C" alt="GitHub Trophies" />
 </p>
 
----
-
-<h1 align="center">
-  <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
-  Featured Projects
-<img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
-
-<h1 align="center">
-  <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
-  Featured Research & Systems
-<img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
-
-<div align="center">
-
-| Project & Research | Core Contributions & Statistics | Tech Stack | Status |
-|:---:|:---|:---:|:---:|
-| **[Yannakakis+ (DuckDB)](https://github.com/ChampionNan/DuckDBYanPlus)**<br>*(Core Optimizer)* | • Replaced native join optimizer with **Greedy GYO-based** enumerator.<br>• Implemented **Bloom Filters** to replace expensive semi-joins.<br>• **Hybrid CBO/RBO** using DuckDB's advanced statistics. | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) <br> ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black) | 🚀 **Live** |
-| **[Yannakakis+ (Query Rewriter)](https://github.com/hkustDB/Quorion/tree/reproducibility)**<br>*(Algorithm Design)* | • **$O(N+M)$** time guarantee on free-connex queries.<br>• **$O(min(NM, F))$** on general queries.<br>• Interleaves selective aggregation-joins with semi-joins. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) <br> ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) | 📜 **Published** |
-| **[Quorion System](https://github.com/hkustDB/Quorion)**<br>*(Interactive Web UI)* | • **SQL-to-SQL Rewriter** for next-gen join plans.<br>• Targets **DuckDB, Postgres, MySQL** via JDBC.<br>• Visual plan selection & cost-based optimization. | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) <br> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | 🖥️ **System** |
-| **[Flexway O-Sort](https://github.com/hkustDB/ODSORT)**<br>*(Secure Hardware)* | • **$O(N log N)$** optimal oblivious sorting.<br>• Designed for **Intel SGX** (Enclave-friendly).<br>• Novel **Flexway Butterfly Network** for optimal page swaps. | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) <br> ![SGX](https://img.shields.io/badge/Intel_SGX-0071C5?style=flat-square&logo=intel&logoColor=white) | 🔒 **Security** |
-| **[RISC-V Implementation](https://github.com/ChampionNan/RISCV)**<br>*(Computer Architecture)* | • Designed a custom **RISC-V** processor core.<br>• Validated logic for arithmetic and branch operations. | ![Verilog](https://img.shields.io/badge/Verilog-B01C2E?style=flat-square&logo=verilog&logoColor=white) <br> ![FPGA](https://img.shields.io/badge/Hardware-Design-orange?style=flat-square) | ⚙️ **Arch** |
-| **[C-Minus Compiler](https://github.com/ChampionNan/C-minus-compiler)**<br>*(Compiler Design)* | • **End-to-End** compilation pipeline (Lexer to CodeGen).<br>• Implemented **Syntax-Directed Translation** for C subset.<br>• Features intermediate code generation and **symbol table** logic. | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) <br> ![Make](https://img.shields.io/badge/Make-000000?style=flat-square&logo=gnu&logoColor=white) | 🔧 **Tool** |
-
-</div>
 
 ---
 
