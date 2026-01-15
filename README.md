@@ -171,90 +171,57 @@ Here are some ideas to get you started:
   Skill Proficiency Levels
 <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
 
-<h3>🛠️ Systems & Core</h3>
 <table width="100%">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="20%">
       <img src="https://img.shields.io/badge/C%2FC%2B%2B-90%25-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Focus-Compiler_%26_DB_Internals-1e1e1e?style=flat-square" />
+      <img src="https://img.shields.io/badge/Focus-Compiler_%26_DB-1e1e1e?style=flat-square" />
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="20%">
       <img src="https://img.shields.io/badge/SQL-90%25-4479A1?style=flat-square&logo=postgresql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Focus-Optimizer_%26_Execution-1e1e1e?style=flat-square" />
+      <img src="https://img.shields.io/badge/Focus-Optimization-1e1e1e?style=flat-square" />
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="20%">
       <img src="https://img.shields.io/badge/Python-85%25-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Focus-Research_Prototypes-1e1e1e?style=flat-square" />
+      <img src="https://img.shields.io/badge/Focus-Research-1e1e1e?style=flat-square" />
     </td>
-  </tr>
-  <tr>
-    <td align="center">
+    <td align="center" width="20%">
       <img src="https://img.shields.io/badge/Verilog-85%25-B01C2E?style=flat-square&logo=verilog&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Focus-Hardware_Description-1e1e1e?style=flat-square" />
+      <img src="https://img.shields.io/badge/Focus-Hardware-1e1e1e?style=flat-square" />
     </td>
-    <td align="center">
+    <td align="center" width="20%">
       <img src="https://img.shields.io/badge/Java%2FScala-60%25-007396?style=flat-square&logo=openjdk&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Focus-Legacy_Systems-1e1e1e?style=flat-square" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/HTML5_%2F_CSS3-90%25-E34F26?style=flat-square&logo=html5&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Focus-Frontend_Structure-1e1e1e?style=flat-square" />
+      <img src="https://img.shields.io/badge/Focus-Legacy_Sys-1e1e1e?style=flat-square" />
     </td>
   </tr>
+  
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/JSP-70%25-007396?style=flat-square&logo=java&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Focus-Server_Rendering-1e1e1e?style=flat-square" />
-    </td>
-    <td align="center"></td> <td align="center"></td> </tr>
-</table>
-
-<h3>🗄️ Database Systems</h3>
-<table width="100%">
-  <tr>
-    <td align="center" width="33%">
       <img src="https://img.shields.io/badge/DuckDB-95%25-FFF000?style=flat-square&logo=duckdb&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/Focus-OLAP_%26_Vectorization-1e1e1e?style=flat-square" />
+      <img src="https://img.shields.io/badge/Focus-OLAP_Kernel-1e1e1e?style=flat-square" />
     </td>
-    <td align="center" width="33%">
+    <td align="center">
       <img src="https://img.shields.io/badge/PostgreSQL-90%25-4169E1?style=flat-square&logo=postgresql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Focus-Extensibility-1e1e1e?style=flat-square" />
+      <img src="https://img.shields.io/badge/Focus-Internals-1e1e1e?style=flat-square" />
     </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/MySQL-85%25-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Focus-OLTP_%26_Storage-1e1e1e?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/SparkSQL-80%25-E25A1C?style=flat-square&logo=apachespark&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Focus-Distributed_Process-1e1e1e?style=flat-square" />
+      <img src="https://img.shields.io/badge/Focus-Distributed-1e1e1e?style=flat-square" />
     </td>
-    <td align="center"></td>
-    <td align="center"></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MySQL-85%25-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Focus-Storage-1e1e1e?style=flat-square" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Algorithm-95%25-success?style=flat-square&logo=leetcode&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Focus-Complexity-1e1e1e?style=flat-square" />
+    </td>
   </tr>
-</table>
 
-<h3>⚙️ Tools & Environment</h3>
-<table width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Linux-85%25-FCC624?style=flat-square&logo=linux&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/Focus-OS_Internals-1e1e1e?style=flat-square" />
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Docker-80%25-2496ED?style=flat-square&logo=docker&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Focus-Reproducible_Env-1e1e1e?style=flat-square" />
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Git-90%25-F05032?style=flat-square&logo=git&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Focus-Version_Control-1e1e1e?style=flat-square" />
-    </td>
-  </tr>
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/Django-85%25-092E20?style=flat-square&logo=django&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Focus-Backend_Dev-1e1e1e?style=flat-square" />
+      <img src="https://img.shields.io/badge/Focus-Backend-1e1e1e?style=flat-square" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Flask-85%25-000000?style=flat-square&logo=flask&logoColor=white" /><br>
@@ -262,21 +229,38 @@ Here are some ideas to get you started:
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Vue.js-70%25-4FC08D?style=flat-square&logo=vue.js&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Focus-Frontend_Interactions-1e1e1e?style=flat-square" />
+      <img src="https://img.shields.io/badge/Focus-Frontend-1e1e1e?style=flat-square" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/HTML%2FCSS-90%25-E34F26?style=flat-square&logo=html5&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Focus-Structure-1e1e1e?style=flat-square" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JSP-70%25-007396?style=flat-square&logo=java&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Focus-Server_Render-1e1e1e?style=flat-square" />
     </td>
   </tr>
+
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/OOP-95%25-FF6F00?style=flat-square&logo=uml&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Focus-Design_Patterns-1e1e1e?style=flat-square" />
+      <img src="https://img.shields.io/badge/Linux-85%25-FCC624?style=flat-square&logo=linux&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/Focus-Kernel_Tune-1e1e1e?style=flat-square" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Docker-80%25-2496ED?style=flat-square&logo=docker&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Focus-Environments-1e1e1e?style=flat-square" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Git-90%25-F05032?style=flat-square&logo=git&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Focus-Ver_Control-1e1e1e?style=flat-square" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Vim-90%25-019733?style=flat-square&logo=vim&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Focus-Editor_of_Choice-1e1e1e?style=flat-square" />
+      <img src="https://img.shields.io/badge/Focus-Editor-1e1e1e?style=flat-square" />
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/LaTeX-95%25-008080?style=flat-square&logo=latex&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Focus-Academic_Writing-1e1e1e?style=flat-square" />
+      <img src="https://img.shields.io/badge/Focus-Writing-1e1e1e?style=flat-square" />
     </td>
   </tr>
 </table>
