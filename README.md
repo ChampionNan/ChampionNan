@@ -67,13 +67,48 @@ Here are some ideas to get you started:
 
 <h1 align="center">
   <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
-  Tech Stack
+  Tech Stack & Skills
 <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,scala,js,css,html,docker,mysql,postgres,git,github,linux,vscode" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,java,scala,html,css,django,vue,flask,docker,git,mysql,postgres,pytorch,linux,bash,latex,vim,vscode&perline=10" />
+  </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
+  <img src="https://img.shields.io/badge/SparkSQL-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Verilog-B01C2E?style=for-the-badge&logo=verilog&logoColor=white" />
+  <img src="https://img.shields.io/badge/System_Verilog-181717?style=for-the-badge&logo=systemverilog&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+
+<details>
+<summary><strong>💪 Skill Proficiency Levels</strong></summary>
+<br>
+
+**Systems & Core:**
+- ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-90%25-00599C) *(Compiler & DB Internals)*
+- ![SQL](https://img.shields.io/badge/SQL%20(Internals)-90%25-4479A1) *(Optimizer & Execution)*
+
+**Algorithms & Scripting:**
+- ![Python](https://img.shields.io/badge/Python-85%25-3776AB) *(Research Prototypes)*
+- ![Java/Scala](https://img.shields.io/badge/Java%2FScala-60%25-007396) *(Legacy Systems)*
+- ![Algorithm Design](https://img.shields.io/badge/Algorithm%20Design-95%25-success) *(Complexity Analysis)*
+
+**Tools & Environment:**
+- ![Docker](https://img.shields.io/badge/Docker%2FK8s-80%25-2496ED) *(Reproducible Environments)*
+- ![Bash](https://img.shields.io/badge/Bash-80%25-4EAA25) *(Shell Scripting)*
+- ![Vim](https://img.shields.io/badge/Vim-90%25-019733) *(Editor of Choice)*
+- ![CMake](https://img.shields.io/badge/CMake-80%25-064F8C) *(Build Systems)*
+- ![LaTeX](https://img.shields.io/badge/LaTeX-95%25-008080) *(Academic Writing)*
+- ![Linux](https://img.shields.io/badge/Linux%20Kernel-85%25-FCC624) *(OS Tuning & Internals)*
+
+</details>
 ---
 
 <h1 align="center">
@@ -134,9 +169,20 @@ Here are some ideas to get you started:
   Connect
 <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
 
+<h1 align="center">
+  <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-right: 10px;" />
+  Connect & Collaborate
+<img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
+
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://championnan.github.io/"><img src="https://img.shields.io/badge/Portfolio-championnan.github.io-2ea44f?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/bingnan-chen-09192b1b0/"><img src="https://img.shields.io/badge/LinkedIn-Bingnan%20Chen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/WeChat-ChampionNan--cbn-07C160?style=for-the-badge&logo=wechat&logoColor=white"/>
+</p>
+
+<p align="center">
+  <a href="mailto:bchenba@connect.ust.hk"><img src="https://img.shields.io/badge/Email-bchenba@connect.ust.hk-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:championnan@foxmail.com"><img src="https://img.shields.io/badge/Email-championnan@foxmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <div align="center">
