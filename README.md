@@ -172,7 +172,7 @@ Here are some ideas to get you started:
 <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
 
 <h3>🛠️ Systems & Core</h3>
-<table width="100%">
+<table width="150%">
   <tr>
     <td align="center" width="20%">
       <img src="https://img.shields.io/badge/C%2FC%2B%2B-90%25-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /><br>
