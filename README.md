@@ -83,7 +83,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/SparkSQL-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
   
   <img src="https://img.shields.io/badge/Verilog-B01C2E?style=for-the-badge&logo=verilog&logoColor=white" />
-  <img src="https://img.shields.io/badge/System_Verilog-181717?style=for-the-badge&logo=systemverilog&logoColor=white" />
   
   <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
   <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -94,21 +93,73 @@ Here are some ideas to get you started:
 <br>
 
 **Systems & Core:**
-- ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-90%25-00599C) *(Compiler & DB Internals)*
-- ![SQL](https://img.shields.io/badge/SQL%20(Internals)-90%25-4479A1) *(Optimizer & Execution)*
+<br>
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-90%25-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Compiler_%26_DB_Internals-1e1e1e?style=flat-square)
+<br>
+![Python](https://img.shields.io/badge/Python-85%25-3776AB?style=flat-square&logo=python&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Research_Prototypes-1e1e1e?style=flat-square)
+<br>
+![Java/Scala](https://img.shields.io/badge/Java%2FScala-60%25-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Legacy_Systems-1e1e1e?style=flat-square)
+<br>
+![SQL](https://img.shields.io/badge/SQL-90%25-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Optimizer_%26_Execution-1e1e1e?style=flat-square)
+<br>
+![HTML/CSS](https://img.shields.io/badge/HTML5_%2F_CSS3-90%25-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Frontend_Structure-1e1e1e?style=flat-square)
+<br>
+![JSP](https://img.shields.io/badge/JSP-70%25-007396?style=flat-square&logo=java&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Server--Side_Rendering-1e1e1e?style=flat-square)
+<br>
+![Verilog/System Verilog](https://img.shields.io/badge/Verilog_%26_System_Verilog-85%25-B01C2E?style=flat-square&logo=verilog&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Hardware_Description_%26_RTL-1e1e1e?style=flat-square)
 
-**Algorithms & Scripting:**
-- ![Python](https://img.shields.io/badge/Python-85%25-3776AB) *(Research Prototypes)*
-- ![Java/Scala](https://img.shields.io/badge/Java%2FScala-60%25-007396) *(Legacy Systems)*
-- ![Algorithm Design](https://img.shields.io/badge/Algorithm%20Design-95%25-success) *(Complexity Analysis)*
+
+**Database Systems:**
+<br>
+![DuckDB](https://img.shields.io/badge/DuckDB-95%25-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![Focus](https://img.shields.io/badge/Focus-OLAP_%26_Vectorization-1e1e1e?style=flat-square)
+<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-90%25-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Extensibility_%26_Internals-1e1e1e?style=flat-square)
+<br>
+![SparkSQL](https://img.shields.io/badge/SparkSQL-80%25-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Distributed_Processing-1e1e1e?style=flat-square)
+<br>
+![MySQL](https://img.shields.io/badge/MySQL-85%25-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-OLTP_%26_Storage_Engines-1e1e1e?style=flat-square)
+
 
 **Tools & Environment:**
-- ![Docker](https://img.shields.io/badge/Docker%2FK8s-80%25-2496ED) *(Reproducible Environments)*
-- ![Bash](https://img.shields.io/badge/Bash-80%25-4EAA25) *(Shell Scripting)*
-- ![Vim](https://img.shields.io/badge/Vim-90%25-019733) *(Editor of Choice)*
-- ![CMake](https://img.shields.io/badge/CMake-80%25-064F8C) *(Build Systems)*
-- ![LaTeX](https://img.shields.io/badge/LaTeX-95%25-008080) *(Academic Writing)*
-- ![Linux](https://img.shields.io/badge/Linux%20Kernel-85%25-FCC624) *(OS Tuning & Internals)*
+<br>
+![Docker](https://img.shields.io/badge/Docker%2FK8s-80%25-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Reproducible_Environments-1e1e1e?style=flat-square)
+<br>
+![Django](https://img.shields.io/badge/Django-85%25-092E20?style=flat-square&logo=django&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Backend_Development-1e1e1e?style=flat-square)
+<br>
+![Flask](https://img.shields.io/badge/Flask-85%25-000000?style=flat-square&logo=flask&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Microservices_&_APIs-1e1e1e?style=flat-square)
+<br>
+![Vue](https://img.shields.io/badge/Vue.js-70%25-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Frontend_Interactions-1e1e1e?style=flat-square)
+<br>
+![OOP](https://img.shields.io/badge/OOP-95%25-FF6F00?style=flat-square&logo=uml&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Design_Patterns-1e1e1e?style=flat-square)
+<br>
+![Git](https://img.shields.io/badge/Git-90%25-F05032?style=flat-square&logo=git&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Version_Control-1e1e1e?style=flat-square)
+<br>
+![LaTeX](https://img.shields.io/badge/LaTeX-95%25-008080?style=flat-square&logo=latex&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Academic_Writing-1e1e1e?style=flat-square)
+<br>
+![Vim](https://img.shields.io/badge/Vim-90%25-019733?style=flat-square&logo=vim&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Editor_of_Choice-1e1e1e?style=flat-square)
+<br>
+![Linux](https://img.shields.io/badge/Linux%20Kernel-85%25-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Focus](https://img.shields.io/badge/Focus-OS_Tuning_%26_Internals-1e1e1e?style=flat-square)
+
 
 </details>
 
