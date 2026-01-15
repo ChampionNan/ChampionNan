@@ -57,9 +57,10 @@ Here are some ideas to get you started:
 <p align="center"><strong style="font-size:18px;">Hello! I'm ChampionNan</strong> — a <strong>Database PhD Student</strong> bridging the gap between theoretical research and practical system engineering.</p>
 
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> <strong>Builder</strong> of robust applications.<br>
-  <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> <strong>Explorer</strong> of new technologies.<br>
-  <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> <strong>Believer</strong> in code that solves real problems.
+  <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> <strong>Designing</strong> query evaluation & optimization.<br>
+  <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> <strong>Bridging</strong> theoretical bounds with practical code.<br>
+  <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> <strong>Architecting</strong> high-performance database kernels.<br>
+  <img src="https://img.icons8.com/?size=100&id=hBOBmd8780Hp&format=png&color=f9d042" width="16" /> <strong>Engineering</strong> systems that scale with data.
 </p>
 
 ---
@@ -81,7 +82,7 @@ Here are some ideas to get you started:
 <img src="https://img.icons8.com/?size=100&id=yOtDIN1jTK5f&format=png&color=f9d042" width="26" style="vertical-align: middle; margin-left: 10px;" /></h1>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ChampionNan&show_icons=true&theme=radical&bg_color=0a0a0a&text_color=ffffff&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ChampionNan&show_icons=true&theme=radical&bg_color=0a0a0a&text_color=ffffff&hide_border=true&include_all_commits=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChampionNan&layout=compact&theme=tokyonight&bg_color=0a0a0a&text_color=ffffff&hide_border=true" />
 </p>
 
@@ -98,7 +99,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChampionNan&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ChampionNan&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&rank=SECRET,SSS,SS,S,A,B,C" alt="GitHub Trophies" />
 </p>
 
 ---
